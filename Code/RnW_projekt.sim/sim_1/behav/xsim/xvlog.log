@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/DFlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/EightBitAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EightBitAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/FourBitAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FourBitAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/SlowClk4Hz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SlowClk4Hz
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'clk_out' is not allowed [C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/SlowClk4Hz.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Severin/Desktop/UniBasel/Rechnerarchitektur/Projekt/RnW_projekt/RnW_projekt.srcs/sources_1/new/PushButton.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PushButton
